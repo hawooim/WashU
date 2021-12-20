@@ -1,1 +1,1 @@
-# Weekly in-class lab practice
+Weekly in-class lab practices
