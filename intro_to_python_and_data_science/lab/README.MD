@@ -13,4 +13,4 @@
 |Lab 11| Advanced Pandas I & II  
 |Lab 12| Advanced Pandas III  
 
-Requred external data files (csv, txt, ...) are stored in 'data' folder.
+Requred external data files (csv, txt, tsv, ...) are stored in 'data' folder.
