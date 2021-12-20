@@ -1,5 +1,5 @@
-## Bonus Project: Recommender system for movies  
+<b>Bonus Project</b>: Recommender system for movies  
 
-## Final Project: Hotel property/order analysis  
+<b>Final Project</b>: Hotel property/order analysis  
 
-## Midterm Project: Smart logistic system in walmart  
+<b>Midterm Project</b>: Smart logistic system in walmart  
