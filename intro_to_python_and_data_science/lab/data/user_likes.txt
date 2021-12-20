@@ -1,0 +1,16 @@
+Jake,Suicide Squad,1
+Dennis,Suicide Squad,0
+Amr,Suicide Squad,1
+Katlin,Suicide Squad,0
+Iva,Suicide Squad,0
+Dennis,The Great Wall,1
+Iva,The Great Wall,0
+Jake,La La Land,1
+Dennis,La La Land,1
+Amr,La La Land,1
+Katlin,La La Land,1
+Iva,La La Land,1
+Dennis,Rogue One,1
+Jake,Rogue One,1
+
+
